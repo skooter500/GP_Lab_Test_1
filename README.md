@@ -6,6 +6,7 @@ Rules of the test:
 - Put a comment at the top of your sketch with your name and student number
 - Put comments in your code to explain what is happening
 - Submit your sketch to webcourses when you are finished
+- This is an open book test. You can use the Processing reference, my git repository and your own notes, but no use of Google/Facebook and no conferring
 
 Here is a video of the sketch you need to make today:
 
