@@ -10,7 +10,7 @@ Rules of the test:
 
 Here is a video of the sketch you need to make today:
 
-https://www.youtube.com/watch?v=C85lZDWraUQ
+[![YouTube](http://img.youtube.com/vi/C85lZDWraUQ/0.jpg)](https://www.youtube.com/watch?v=C85lZDWraUQ)
 
 What is happening:
 
